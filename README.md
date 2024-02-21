@@ -45,7 +45,7 @@ Run the training script again to fine-tune the YOLOv8 model to detect only perso
 python trainYOLOV8.py
 ```
 
-## Direct Use
+## Quickstart
 
 Download [`yolov8s-seg-person.pt`](https://drive.google.com/file/d/1kf1xVbOEisq9RP3Fes-KijL5Vs_bbvmh/view?usp=sharing), our fine-tune model, and place it in the `model` folder. To see the model in action, run:
 ```
